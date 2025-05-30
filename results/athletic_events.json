@@ -1,0 +1,102 @@
+[
+  {
+    "duTeam": "Men's Golf",
+    "opponent": "Round 1",
+    "date": "2025-04-27T00:00:00"
+  },
+  {
+    "duTeam": "Men's Golf",
+    "opponent": "Round 2",
+    "date": "2025-04-28T00:00:00"
+  },
+  {
+    "duTeam": "Men's Golf",
+    "opponent": "Round 3",
+    "date": "2025-04-29T00:00:00"
+  },
+  {
+    "duTeam": "Women's Lacrosse",
+    "opponent": "#4 Georgetown",
+    "date": "2025-05-01T11:00:00"
+  },
+  {
+    "duTeam": "Women's Tennis",
+    "opponent": "#4 Oklahoma",
+    "date": "2025-05-02T13:00:00"
+  },
+  {
+    "duTeam": "Men's Tennis",
+    "opponent": "#10 Arizona",
+    "date": "2025-05-02T14:00:00"
+  },
+  {
+    "duTeam": "Women's Lacrosse",
+    "opponent": "#2 Villanova",
+    "date": "2025-05-03T09:00:00"
+  },
+  {
+    "duTeam": "Women's Golf",
+    "opponent": "Round 1/2",
+    "date": "2025-05-05T00:00:00"
+  },
+  {
+    "duTeam": "Women's Golf",
+    "opponent": "Round 3",
+    "date": "2025-05-06T00:00:00"
+  },
+  {
+    "duTeam": "Women's Lacrosse",
+    "opponent": "Stanford ",
+    "date": "2025-05-09T17:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "USC",
+    "date": "2025-08-29T00:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "Loyola Marymount",
+    "date": "2025-08-30T00:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "Memphis",
+    "date": "2025-09-04T00:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "Texas Southern",
+    "date": "2025-09-05T00:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "Idaho State",
+    "date": "2025-09-06T00:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "University of Toledo",
+    "date": "2025-09-12T00:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "Arkansas",
+    "date": "2025-09-13T00:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "Colorado",
+    "date": "2025-09-14T00:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "Air Force ",
+    "date": "2025-09-18T00:00:00"
+  },
+  {
+    "duTeam": "Women's Volleyball",
+    "opponent": "Utah Tech",
+    "date": "2025-09-19T00:00:00"
+  }
+]
